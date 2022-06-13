@@ -1,0 +1,15 @@
+{
+  "name": "squirrel-bot",
+  "version": "0.0.1",
+  "description": "A bot to automatically remove non-image attachments from Discord messages",
+  "scripts": {
+    "start": "nodemon index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lolsokje#0666",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.7.0",
+    "ts-node": "^10.8.0"
+  }
+}
